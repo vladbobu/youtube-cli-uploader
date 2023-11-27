@@ -10,14 +10,11 @@ Python CLI tool for uploading videos to YouTube with ease. Supports specifying v
 - Google account with access to YouTube Data API
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/vladbobu/youtube-cli-uploader.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ### Google API Credentials
 1. Set up your OAuth 2.0 credentials at the [Google Developers Console](https://console.developers.google.com/).
